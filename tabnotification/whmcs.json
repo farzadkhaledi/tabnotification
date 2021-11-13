@@ -1,0 +1,30 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-addons",
+    "name": "tabnotification",
+    "version": "1.0",
+    "license": "mit",
+    "category": "other",
+    "description": {
+        "name": "Browser Tab Notification",
+        "tagline": "Browser Tab Notification for WHMCS",
+        "long": "Decrease the number of your WHMCS abandoned carts by adding a tab favicon notification.",
+        "features": [
+            "Decrease the number of your WHMCS abandoned carts by adding a tab favicon notification",
+            "Encourage clients to complete orders"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "docs_url": "https:\/\/www.github.com\/farzadkhaledi\/tabnotification",
+        "learn_more": "https:\/\/www.github.com\/farzadkhaledi\/tabnotification"
+    },
+    "authors": [
+        {
+            "name": "Farzad Khaledi",
+            "homepage": "https:\/\/www.khaledi.website\/"
+        }
+    ]
+}
