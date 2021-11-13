@@ -12,7 +12,7 @@ Add **Browser Tab Notification** favicon in WHMCS.
 - Working with any WHMCS templates
 
 
-## Install
+## Installation
 
 Download addon latest version form [latest release](https://github.com/farzadkhaledi/tabnotification/releases/latest) and extract files, then upload **tabnotification** folder to YOUR_WHMCS_ROOT/modules/addons folder.
 
